@@ -7,4 +7,4 @@ The Titanic: Machine Learning from Disaster competiton. With data being provided
 like numpy,pandas to manipulate , explore and analyze the data and libraries like matplotlib and seaborn to visualise the data. Lastly I have used various machine learning 
 models to make predictions on the formerly cleaned and preprocessed data. Then I used GridSearchCV to optimise the parameters of the various models
 
-Finally I got an accuracy of 0.77511 on the kaggle test set.
+Finally I got an accuracy of 0.77511 on the kaggle test set .
